@@ -1,0 +1,26 @@
+mes_de_los_datos,medio_de_pago,viajes,variacion_interanual_pct,es_estimado,informe_de_origen,url
+2024-12,tarjeta_sube,356200000,-4.4,NO,Informe Mensual de Pagos Minoristas enero 2025,https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informe-mensual-de-pagos-minoristas-ene-2025.pdf
+2025-01,tarjeta_sube,294500000,-13.9,NO,Informe Mensual de Pagos Minoristas febrero 2025,https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informe-mensual-de-pagos-minoristas-feb-2025.pdf
+2025-02,tarjeta_sube,283000000,-4.6,NO,Informe Mensual de Pagos Minoristas marzo 2025,https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informe-mensual-de-pagos-minoristas-mar-2025.pdf
+2025-03,tarjeta_sube,348000000,6.3,NO,Informe Mensual de Pagos Minoristas abril 2025 (el informe dice "348 millones"; antes estimado en 348.044.693),https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/Informe-Mensual-de-Pagos-Minoristas-abril%202025.pdf
+2025-04,tarjeta_sube,363500000,-9.0,NO,Informe Mensual de Pagos Minoristas mayo 2025,https://bcra.gob.ar/Pdfs/PublicacionesEstadisticas/Informe-Mensual-de-Pagos-Minoristas-mayo-2025.pdf
+2025-07,tarjeta_sube,349700000,-9.5,NO,Informe Mensual de Pagos Minoristas agosto 2025,https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/Informe-Mensual-de-Pagos-Minoristas-agosto-2025.pdf
+2025-08,tarjeta_sube,351200000,-10.6,NO,Informe Mensual de Pagos Minoristas septiembre 2025,https://bcra.gob.ar/Pdfs/PublicacionesEstadisticas/Informe-Mensual-de-Pagos-Minoristas-septiembre-2025.pdf
+2025-09,tarjeta_sube,388400000,-1.6,NO,Informe Mensual de Pagos Minoristas octubre 2025,https://www.bcra.gob.ar/Pdfs/PublicacionesEstadisticas/Informe-Mensual-de-Pagos-Minoristas-octubre-2025.pdf
+2025-10,tarjeta_sube,385500000,-3.7,NO,Informe Mensual de Pagos Minoristas noviembre 2025,https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/Informe-Mensual-de-Pagos-Minoristas-noviembre-2025.pdf
+2025-12,tarjeta_sube,305000000,-14.4,NO,Informe de Pagos Minoristas enero 2026,https://www.bcra.gob.ar/publicaciones/informe-mensual-de-pagos-minoristas-enero-de-2026/
+2026-01,tarjeta_sube,240400000,-18.4,NO,Informe de Pagos Minoristas febrero 2026,https://www.bcra.gob.ar/publicaciones/informe-de-pagos-minoristas-febrero-de-2026/
+2026-02,tarjeta_sube,222700000,-21.3,NO,Informe de Pagos Minoristas marzo 2026,https://www.bcra.gob.ar/publicaciones/informe-de-pagos-minoristas-marzo-de-2026/
+2026-03,tarjeta_sube,311500000,-10.5,NO,Informe de Pagos Minoristas abril 2026,https://www.bcra.gob.ar/publicaciones/informe-mensual-de-pagos-minoristas-abril-de-2026/
+2026-04,tarjeta_sube,305600000,-15.9,NO,Informe de Pagos Minoristas mayo 2026,https://www.bcra.gob.ar/publicaciones/informe-mensual-de-pagos-minoristas-mayo-de-2026/
+2026-05,tarjeta_sube,292300000,-17.3,NO,Informe de Pagos Minoristas junio 2026,https://www.bcra.gob.ar/publicaciones/informe-de-pagos-minoristas-junio-de-2026/
+2026-07,tarjeta_sube,270200000,-22.0,NO,Informe de Pagos Minoristas agosto 2026,https://www.bcra.gob.ar/publicaciones/informe-de-pagos-minoristas-agosto-de-2026/
+2025-10,qr,13700000,,NO,Informe Mensual de Pagos Minoristas octubre 2025,https://www.bcra.gob.ar/Pdfs/PublicacionesEstadisticas/Informe-Mensual-de-Pagos-Minoristas-octubre-2025.pdf
+2025-11,qr,19100000,,NO,Informe Mensual de Pagos Minoristas noviembre 2025,https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/Informe-Mensual-de-Pagos-Minoristas-noviembre-2025.pdf
+2026-01,qr,15900000,,NO,Informe de Pagos Minoristas enero 2026,https://www.bcra.gob.ar/publicaciones/informe-mensual-de-pagos-minoristas-enero-de-2026/
+2026-02,qr,16500000,,NO,Informe de Pagos Minoristas febrero 2026,https://www.bcra.gob.ar/publicaciones/informe-de-pagos-minoristas-febrero-de-2026/
+2026-03,qr,24000000,,NO,Informe de Pagos Minoristas marzo 2026,https://www.bcra.gob.ar/publicaciones/informe-de-pagos-minoristas-marzo-de-2026/
+2026-04,qr,26100000,,NO,Informe de Pagos Minoristas abril 2026,https://www.bcra.gob.ar/publicaciones/informe-mensual-de-pagos-minoristas-abril-de-2026/
+2026-05,qr,24700000,,NO,Informe de Pagos Minoristas mayo 2026,https://www.bcra.gob.ar/publicaciones/informe-mensual-de-pagos-minoristas-mayo-de-2026/
+2026-06,qr,26000000,,NO,Informe de Pagos Minoristas junio 2026,https://www.bcra.gob.ar/publicaciones/informe-de-pagos-minoristas-junio-de-2026/
+2026-08,qr,26300000,,NO,Informe de Pagos Minoristas agosto 2026,https://www.bcra.gob.ar/publicaciones/informe-de-pagos-minoristas-agosto-de-2026/

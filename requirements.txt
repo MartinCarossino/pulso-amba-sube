@@ -1,0 +1,5 @@
+# Versiones con las que se calcularon las cifras publicadas (Colab, 16/10/2026)
+duckdb==1.3.2
+pandas==2.2.3
+matplotlib==3.10.0
+requests

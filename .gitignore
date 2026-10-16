@@ -1,0 +1,26 @@
+# Datos que el notebook reconstruye desde la fuente oficial
+*.duckdb
+*.duckdb.wal
+dat-ab-usos-*.csv
+
+# Archivos que genera cada corrida (informes, tablas y gráficos intermedios)
+informe_verificacion_*.csv
+verificacion_cifras_*.csv
+superposicion_traspaso_caba.csv
+fusiones_absorcion.csv
+pulso_semanal_indice_amba.png
+estacionalidad_amba.png
+variacion_interanual_amba.png
+
+# Tipografías descargadas para los gráficos
+*.ttf
+
+# Entorno
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+
+# Copias de los gráficos que el notebook guarda en la raíz (las publicadas están en imagenes/)
+/post*.png
+/post4_carrusel.pdf
